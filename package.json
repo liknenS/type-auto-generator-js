@@ -1,0 +1,32 @@
+{
+  "name": "type-auto-generator",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liknenS/type-auto-generator-js.git"
+  },
+  "keywords": [
+    "js",
+    "types",
+    "autotype",
+    "generate",
+    "v8",
+    "cdp"
+  ],
+  "author": "liknenS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liknenS/type-auto-generator-js/issues"
+  },
+  "homepage": "https://github.com/liknenS/type-auto-generator-js#readme",
+  "dependencies": {
+    "line-column": "^1.0.2",
+    "lodash": "^4.17.11",
+    "source-map": "^0.7.3"
+  }
+}
